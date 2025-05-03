@@ -1,0 +1,9 @@
+com\aashish\constants\FrameworkConstants.class
+com\aashish\utils\TestDataLoader.class
+com\aashish\pages\CartPage.class
+com\aashish\pages\LoginPage.class
+com\aashish\pages\BasePageClass.class
+com\aashish\utils\PropertyFileReader.class
+com\aashish\pages\CheckoutPage.class
+com\aashish\pages\InventoryPage.class
+com\aashish\pages\ProductPage.class
