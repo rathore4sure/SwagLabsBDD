@@ -56,7 +56,7 @@ src
 
   mvn test
   
-4. View the generated ExtentReports under the /test-output or configured reports directory.
+4. View the generated ExtentReports under target/ExtentReports
 
 Author
 Aashish Kumar
