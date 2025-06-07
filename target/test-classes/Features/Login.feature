@@ -14,7 +14,7 @@ Feature: Login test cases for Sauce Demo App
     When I enter username "locked_out_user"
     And I enter password "secret_sauce"
     And I click the Login button
-    Then I should see an error message "Epic sadface: Sorry, this user has been locked out."
+    Then I should see an error message "Epic sadface: Sorry, this user has been locked- out."
   Scenario: Login fails with incorrect password
     When I enter username "standard_user"
     And I enter password "wrong_password"
